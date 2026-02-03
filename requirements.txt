@@ -1,0 +1,8 @@
+streamlit
+pymupdf
+python-docx
+pytesseract
+pillow
+rapidfuzz
+celery
+redis
