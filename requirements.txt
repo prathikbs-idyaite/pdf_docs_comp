@@ -6,3 +6,5 @@ pillow
 rapidfuzz
 celery
 redis
+nltk
+
